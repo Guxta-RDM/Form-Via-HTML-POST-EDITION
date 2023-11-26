@@ -1,0 +1,29 @@
+{
+  "name": "form-via-html-post-edition",
+  "version": "1.0.0",
+  "description": "Formulário Via HTML utilizando agora o método POST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guxta-RDM/Form-Via-HTML-POST-EDITION.git"
+  },
+  "keywords": [
+    "Form",
+    "Node",
+    "POST"
+  ],
+  "author": "Gustavo Alonso da Silva Candido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guxta-RDM/Form-Via-HTML-POST-EDITION/issues"
+  },
+  "homepage": "https://github.com/Guxta-RDM/Form-Via-HTML-POST-EDITION#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
